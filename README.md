@@ -1,1 +1,2 @@
-# git-3
+hi 
+how are you
